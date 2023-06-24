@@ -41,7 +41,7 @@ out/
 *.rar
 
 ### Exclusions ###
-!artifacts/app-card-delivery.jar
+!artifacts/app-ibank.jar
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
